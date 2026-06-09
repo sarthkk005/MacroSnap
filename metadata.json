@@ -1,0 +1,6 @@
+{
+  "name": "MacroSnap",
+  "description": "Track calorie intake and macronutrients using photo scanning and text entry with Gamification and Daily Reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
